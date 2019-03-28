@@ -1,0 +1,2 @@
+Ihaiu的池子用了旧版粒子的东西，在2018.3里已经全部移除了，所以通过2018.2,Upgrade Legacy Particles并进行简单的修改
+遗留粒子系统的问题：https://forum.unity.com/threads/legacy-particle-system-updater.510879/
